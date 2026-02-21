@@ -226,6 +226,6 @@
             "playing": "⏸︎",
             "stopped": "⏹"
         },
-        "interval": 0
+        "interval": 1
     }
 }
